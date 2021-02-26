@@ -1,0 +1,1 @@
+I am learning Next JS by following the [Bulletproof Next tutorial](https://getstarted.sh/bulletproof-next/server-rendering-a-github-repo/3). I am trying to use [this github repo](https://github.com/duttakapil/bulletproof-next-blog-data) as the data source for the blog
