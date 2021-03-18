@@ -14,5 +14,13 @@
     "content": "This is amazing! Wow",
     "createdAt": 1616043607962,
     "id": "aWVudWH2U-TQEzzgY-KawzFmsf_4sG"
+  },
+  {
+    "userId": "user-id",
+    "name": "The User",
+    "avatar": "https://api.adorable.io/avatars/255/the-user@email.png",
+    "content": "Kapil is doing great with learning Next JS :)",
+    "createdAt": 1616043643088,
+    "id": "a_JVBLqT7cX86UtkLF8dn5-aT9p8mI"
   }
 ]
