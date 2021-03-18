@@ -14,5 +14,13 @@
     "content": "Hello world!",
     "createdAt": 1616048229437,
     "id": "yKHGnIQqseZfgACuKmwkKQXqcxJbXx"
+  },
+  {
+    "userId": "github-6577624",
+    "name": "Kapil Dutta",
+    "avatar": "https://avatars.githubusercontent.com/u/6577624?v=4",
+    "content": "Testing!",
+    "createdAt": 1616048609617,
+    "id": "0fnx4Q4vHK0IB1IDTa9QzbYsFFj5uR"
   }
 ]
